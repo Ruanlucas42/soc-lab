@@ -18,3 +18,14 @@
 
 ## Screenshots
 
+### Threat Hunting Dashboard
+![Threat Hunting](screenshots/threat-hunting.png)
+
+### MITRE ATT&CK Dashboard
+![MITRE Dashboard](screenshots/wazuh-mitre-attack.png)
+
+### MITRE ATT&CK Framework
+![MITRE Framework](screenshots/wazuh-mitre-framework.png)
+
+### MITRE Events
+![MITRE Events](screenshots/wazuh-mitre-events.png)
